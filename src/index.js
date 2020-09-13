@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import App from './App'; //standard that it is capitalised
+import CardList from './CardList'
+//standard that it is capitalised
+
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
+import App from './App'; //father of all of the components. 
 
 ReactDOM.render(
-  <h1> Hello World </h1>,
+  <App />,
   document.getElementById('root')
 );
 
