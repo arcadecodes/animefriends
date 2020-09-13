@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Anime friends allows you to search through a directory of anime characters. Built on top of a ReactJS web application, it is a card UI which has the name, anime, and voice actor for each character. We can search dynamically through those cards by the name of the anime character.  
+
 ## Available Scripts
 
 In the project directory, you can run:
