@@ -27,6 +27,27 @@ export const characters = [
         anime: 'My Hero Academia',
         voiceactress: 'Yūki Kaji',
         image: './assets/shoto.png'
+    },
+    {
+        id: 5,
+        name: 'Taiga Aisaka',
+        anime: 'Toradora',
+        voiceactress: 'Rie Kugimiya',
+        image: './assets/aisaka.png'
+    },
+    {
+        id: 6,
+        name: 'Emilia',
+        anime: 'Re: Zero',
+        voiceactress: 'Rie Takahashi',
+        image: './assets/emilia.png'
+    },
+    {
+        id: 7,
+        name: 'Ban',
+        anime: 'Seven deadly sins',
+        voiceactress: 'Tatsuhisa Suzuki',
+        image: './assets/ban.png'
     }
 ]
 
