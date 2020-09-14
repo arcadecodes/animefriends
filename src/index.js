@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import CardList from './CardList'
+//import CardList from './CardList'
 //standard that it is capitalised
 
 import * as serviceWorker from './serviceWorker';
