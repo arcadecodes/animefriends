@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Japanese Brush';
+    src: url('JapaneseBrush.woff2') format('woff2'),
+        url('JapaneseBrush.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yellow Rabbit - Personal Use';
+    src: url('YellowRabbit-PersonalUse.woff2') format('woff2'),
+        url('YellowRabbit-PersonalUse.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+h1 {
+  font-family: 'Yellow Rabbit - Personal Use';
+  color: black;
+}
