@@ -5,7 +5,7 @@ import "./Card.css"
 const Card = (props) => {
     const { name, image, anime, voiceactress } = props;
     return (
-        <div className='bg-light-pink dib br3 pa3 ma2 grow b2 shadow-5'>
+        <div id='card' className=' dib br3 pa3 ma2 grow b2 shadow-5'>
             <img alt="Chibi" className="mikasa" src={require(`${image}`)} />
             <div>
                 <h2>{name}</h2>
