@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/animefriends/static/css/main.80151dc5.chunk.css",
+    "main.js": "/animefriends/static/js/main.29a87661.chunk.js",
+    "main.js.map": "/animefriends/static/js/main.29a87661.chunk.js.map",
+    "runtime-main.js": "/animefriends/static/js/runtime-main.d8aeb56d.js",
+    "runtime-main.js.map": "/animefriends/static/js/runtime-main.d8aeb56d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/animefriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a22909c7.chunk.js": "/animefriends/static/js/2.a22909c7.chunk.js",
+    "static/js/2.a22909c7.chunk.js.map": "/animefriends/static/js/2.a22909c7.chunk.js.map",
+    "index.html": "/animefriends/index.html",
+    "precache-manifest.bbf5436880bddc8d8797c79b4b989b85.js": "/animefriends/precache-manifest.bbf5436880bddc8d8797c79b4b989b85.js",
+    "service-worker.js": "/animefriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/animefriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.80151dc5.chunk.css.map": "/animefriends/static/css/main.80151dc5.chunk.css.map",
+    "static/js/2.a22909c7.chunk.js.LICENSE.txt": "/animefriends/static/js/2.a22909c7.chunk.js.LICENSE.txt",
+    "static/media/JapaneseBrush.woff": "/animefriends/static/media/JapaneseBrush.7d2f9060.woff",
+    "static/media/JapaneseBrush.woff2": "/animefriends/static/media/JapaneseBrush.98021f3a.woff2",
+    "static/media/YellowRabbit-PersonalUse.woff": "/animefriends/static/media/YellowRabbit-PersonalUse.21c9ccf8.woff",
+    "static/media/YellowRabbit-PersonalUse.woff2": "/animefriends/static/media/YellowRabbit-PersonalUse.946a108e.woff2",
+    "static/media/aisaka.png": "/animefriends/static/media/aisaka.d69c5738.png",
+    "static/media/ban.png": "/animefriends/static/media/ban.dd7abb4a.png",
+    "static/media/edward.png": "/animefriends/static/media/edward.3d5489dd.png",
+    "static/media/emilia.png": "/animefriends/static/media/emilia.b3d2b975.png",
+    "static/media/mikasa.png": "/animefriends/static/media/mikasa.3eb7ed4c.png",
+    "static/media/mikasa.jpg": "/animefriends/static/media/mikasa.71a95187.jpg",
+    "static/media/ryuko.jpg": "/animefriends/static/media/ryuko.349542e9.jpg",
+    "static/media/ryuko.png": "/animefriends/static/media/ryuko.47424e16.png",
+    "static/media/satsuki.jpg": "/animefriends/static/media/satsuki.dfb062fd.jpg",
+    "static/media/shoto.png": "/animefriends/static/media/shoto.2c713804.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8aeb56d.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a22909c7.chunk.js",
+    "static/css/main.80151dc5.chunk.css",
+    "static/js/main.29a87661.chunk.js"
+  ]
+}
